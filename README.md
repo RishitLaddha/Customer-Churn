@@ -3,6 +3,9 @@
 
 Welcome to **Customer Churn Prediction** — a machine learning project that stares into banking data and whispers:  
 *"This customer’s about to ghost you."*  
+
+![Churn Intro preview](churn_intro.png)
+
 It’s equal parts predictive modeling, feature engineering, and “huh, that makes sense” insight machine.
 
 ---
